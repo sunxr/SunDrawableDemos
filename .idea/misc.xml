@@ -12,6 +12,7 @@
         <entry key="app/src/main/res/layout/fragment_bitmap_drawable.xml" value="0.4244791666666667" />
         <entry key="app/src/main/res/layout/fragment_gradient_drawable.xml" value="0.4244791666666667" />
         <entry key="app/src/main/res/layout/fragment_layer_drawable.xml" value="0.4244791666666667" />
+        <entry key="app/src/main/res/layout/fragment_level_list_drawable.xml" value="0.36875" />
         <entry key="app/src/main/res/layout/fragment_move_ball.xml" value="0.4244791666666667" />
         <entry key="app/src/main/res/layout/fragment_shape_drawable.xml" value="0.4244791666666667" />
         <entry key="app/src/main/res/layout/fragment_state_list_drawable.xml" value="0.4244791666666667" />

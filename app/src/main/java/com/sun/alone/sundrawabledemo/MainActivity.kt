@@ -62,6 +62,7 @@ class MainActivity : AppCompatActivity() {
           getString(R.string.gradient_drawable) -> GradientDrawableFragment()
           getString(R.string.layer_drawable) -> LayerDrawableFragment()
           getString(R.string.state_list_drawable) -> StateListDrawableFragment()
+          getString(R.string.level_list_drawable) -> LevelListDrawableFragment()
           else -> MoveBallFragment()
         }
       }
